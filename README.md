@@ -16,7 +16,7 @@ I am someone passionate about cats, software, electronics, crows and friendships
 
 >⚡I like things to be quick and light whenever possible.
 
-I'll talk a little bit about me next, so [click here if you want to skip to my skills](#skills-🔧).
+I'll talk a little bit about me next, so [click here if you want to skip to my skills](#skills).
 
 I love animals, of all kinds, especially cats and crows. I also love the color purple and challenging things. 
 I love Bun, BunJS follows all my ideologies: fast, optimal and lightweight. I really love it ♥️. 
@@ -28,7 +28,7 @@ feel free to write me and ask me about anything you want. I'll be happy to answe
 ## Learning
 C#, Rust, Kotlin
 
-## Skills 🔧
+## Skills
   
 ### Base 
 ![html](https://github.com/igarrux/igarrux/assets/168871059/f0ddf0b4-9939-4fec-a78b-597b865bef66)
