@@ -5,8 +5,8 @@
 
 Email: itsgarrux@gmail.com
 
-[![image](https://github.com/igarrux/igarrux/assets/168871059/6a6289ac-edce-4f68-b76f-243d11f455fd)](https://www.linkedin.com/in/jhonjgs/)
-[![image](https://github.com/igarrux/igarrux/assets/168871059/c02f78f0-1ff8-41d2-bc25-7ebd0cd7b054)](https://twitter.com/Garruxi)
+[![linkedin](https://github.com/igarrux/igarrux/assets/168871059/6a6289ac-edce-4f68-b76f-243d11f455fd)](https://www.linkedin.com/in/jhonjgs/)
+[![twitter](https://github.com/igarrux/igarrux/assets/168871059/773b15e6-b9fa-47c5-8e6e-9d2051aa1757)](https://twitter.com/Garruxi)
 
 🌐 Native Spanish - English B1
 
